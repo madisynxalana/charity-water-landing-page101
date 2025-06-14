@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>My Landing Page</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+  <!-- Hero Section -->
+  <section class="hero">
+    <div class="hero-content">
+      <h1>Your Headline Goes Here</h1>
+      <p>Your subheadline or one-liner that speaks to the user's need.</p>
+      <a href="#cta" class="button">Get Started</a>
+    </div>
+  </section>
+
+  <!-- Story Section -->
+  <section class="story">
+    <h2>Our Story</h2>
+    <p>
+      This is where you describe your product, brand story, or purpose. Use this section to build trust and explain what sets you apart.
+    </p>
+    <img src="img/placeholder.jpg" alt="Story Image" />
+  </section>
+
+  <!-- CTA Section -->
+  <section class="cta" id="cta">
+    <h2>Ready to Take the Next Step?</h2>
+    <a href="#" class="button">Sign Up Now</a>
+  </section>
+
+</body>
+</html>
